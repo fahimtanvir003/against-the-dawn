@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3023014944196679038
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3023014944196679036}
+  - component: {fileID: 3023014944196679039}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3023014944196679036
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3023014944196679038}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3023014944196679039
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3023014944196679038}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c4bb3da3f388ac4ea226bc206ee74ed, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: CarAccelerationLow
+    clip: {fileID: 8300000, guid: c4d8928c75c21af43998193f0f038429, type: 3}
+    volume: 1
+    pitch: 1.73
+    loop: 1
+    source: {fileID: 0}
+  - name: CarAccelerationHigh
+    clip: {fileID: 8300000, guid: 03e3bd08a6e70684dbe299a3e185fdd2, type: 3}
+    volume: 1
+    pitch: 0.8
+    loop: 1
+    source: {fileID: 0}
+  - name: Brake
+    clip: {fileID: 8300000, guid: bd9566abdbf08834281bfb4ea8b92a5d, type: 3}
+    volume: 1
+    pitch: 0.96
+    loop: 0
+    source: {fileID: 0}
+  - name: Reverse
+    clip: {fileID: 8300000, guid: 5699dddcce16c4543b95951c4ce0e092, type: 3}
+    volume: 1
+    pitch: 0.96
+    loop: 1
+    source: {fileID: 0}
+  - name: Theme
+    clip: {fileID: 8300000, guid: cf7db1248b6172a4eb42743f7211438c, type: 3}
+    volume: 1
+    pitch: 0.96
+    loop: 1
+    source: {fileID: 0}
+  - name: Zombiebgm
+    clip: {fileID: 8300000, guid: eb3d696c896133a45bb3dad400467588, type: 3}
+    volume: 1
+    pitch: 0.96
+    loop: 0
+    source: {fileID: 0}
+  - name: CarCrash
+    clip: {fileID: 8300000, guid: 6d6739b0b89afda43a8f9ce46be46176, type: 3}
+    volume: 1
+    pitch: 0.96
+    loop: 0
+    source: {fileID: 0}
+  - name: ZombieCrash
+    clip: {fileID: 8300000, guid: 8f2631d71b46fa8469576afa5cbe7b30, type: 3}
+    volume: 0.7
+    pitch: 0.96
+    loop: 0
+    source: {fileID: 0}
+  - name: ZombieCrash1
+    clip: {fileID: 8300000, guid: c1e5a64e55cadc644b987e92c6f73728, type: 3}
+    volume: 0.7
+    pitch: 0.96
+    loop: 0
+    source: {fileID: 0}
+  - name: MainMenuTheme
+    clip: {fileID: 8300000, guid: aadd68675278d124287fd17e5c80b73e, type: 3}
+    volume: 1
+    pitch: 0.96
+    loop: 1
+    source: {fileID: 0}
+  - name: ButtonClick
+    clip: {fileID: 8300000, guid: da44a9f91f996ca43945475ef7d215ff, type: 3}
+    volume: 1
+    pitch: 0.96
+    loop: 0
+    source: {fileID: 0}
+  - name: GameOver
+    clip: {fileID: 8300000, guid: 047f09ff36aa00643be6effa8c11e8bc, type: 3}
+    volume: 0.938
+    pitch: 0.96
+    loop: 1
+    source: {fileID: 0}
+  - name: Game Win
+    clip: {fileID: 8300000, guid: f65c062160fef4f43a7d7ecbefec3821, type: 3}
+    volume: 0.929
+    pitch: 0.96
+    loop: 1
+    source: {fileID: 0}
