@@ -65,7 +65,7 @@ public class GameManager : MonoBehaviour
     }
     public void PlayButton()
     {
-        SceneManager.LoadScene("Level01");
+        SceneManager.LoadScene("Level02");
 
        /* if (CarSelection.currentCar == 0)
         {
