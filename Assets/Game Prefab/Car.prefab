@@ -27,22 +27,22 @@ PrefabInstance:
     - target: {fileID: 7275924450656892654, guid: 3731d9d055932544ebb3569b57c8043f,
         type: 3}
       propertyPath: m_Name
-      value: Car
+      value: Hammer
       objectReference: {fileID: 0}
     - target: {fileID: 7275924450656922262, guid: 3731d9d055932544ebb3569b57c8043f,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 497.81
+      value: 307.9
       objectReference: {fileID: 0}
     - target: {fileID: 7275924450656922262, guid: 3731d9d055932544ebb3569b57c8043f,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.43
+      value: 26.3
       objectReference: {fileID: 0}
     - target: {fileID: 7275924450656922262, guid: 3731d9d055932544ebb3569b57c8043f,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 96.32
+      value: 59
       objectReference: {fileID: 0}
     - target: {fileID: 7275924450656922262, guid: 3731d9d055932544ebb3569b57c8043f,
         type: 3}
@@ -83,6 +83,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0.231
+      objectReference: {fileID: 0}
+    - target: {fileID: 7275924450656922262, guid: 3731d9d055932544ebb3569b57c8043f,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.7723925
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3731d9d055932544ebb3569b57c8043f, type: 3}
