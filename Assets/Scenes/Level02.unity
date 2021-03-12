@@ -14,7 +14,7 @@ OcclusionCullingSettings:
 RenderSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 9
-  m_Fog: 1
+  m_Fog: 0
   m_FogColor: {r: 0.9056604, g: 0.9056604, b: 0.9056604, a: 1}
   m_FogMode: 2
   m_FogDensity: 0.05
@@ -120,7 +120,7 @@ NavMeshSettings:
     accuratePlacement: 0
     debug:
       m_Flags: 0
-  m_NavMeshData: {fileID: 0}
+  m_NavMeshData: {fileID: 23800000, guid: d8c6a10ad3618ad4790ce0e8c36af511, type: 2}
 --- !u!1001 &7010534
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -193,10 +193,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a6c8961b6a254f84199cf65241db1748,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: a6c8961b6a254f84199cf65241db1748,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-Light1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a6c8961b6a254f84199cf65241db1748,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a6c8961b6a254f84199cf65241db1748, type: 3}
@@ -400,10 +410,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -711,10 +731,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -816,10 +846,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (39)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -921,10 +961,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (54)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -1026,10 +1076,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -1393,10 +1453,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.0550632
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (41)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -2000,10 +2070,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 3.1265998
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -2364,10 +2444,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.093875
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -2469,10 +2559,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -2672,10 +2772,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (51)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -2842,10 +2952,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (50)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -3201,10 +3321,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (73)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -3668,10 +3798,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -3773,10 +3913,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -3958,10 +4108,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -4228,10 +4388,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (71)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -4710,10 +4880,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (86)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -4821,10 +5001,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (65)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -5195,10 +5385,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (68)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -5484,10 +5684,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (75)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -5827,10 +6037,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.0938752
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -6185,10 +6405,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -6486,10 +6716,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -6780,10 +7020,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.0938752
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (62)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -7377,10 +7627,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -7488,10 +7748,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -7694,12 +7964,17 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 1.1347517
+      value: 0.7241358
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (48)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -7801,10 +8076,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (59)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -8338,10 +8623,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -8606,10 +8901,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -8711,10 +9016,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -9086,10 +9401,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (87)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -9289,10 +9614,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (80)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -9497,10 +9832,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 0.97524107
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (34)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -9605,12 +9950,17 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 1.1347517
+      value: 0.7241358
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (53)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -9712,10 +10062,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (77)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -9915,10 +10275,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (79)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -10432,10 +10802,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -10635,10 +11015,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (76)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -10919,10 +11309,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -11128,10 +11528,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -11233,10 +11643,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -11338,10 +11758,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -11877,10 +12307,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (64)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -12361,10 +12801,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (61)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -12461,10 +12911,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.0938752
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -12664,10 +13124,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -14351,10 +14821,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -14451,10 +14931,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.0938752
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -14646,10 +15136,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -14752,10 +15252,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.103471
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (60)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -15394,10 +15904,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (58)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -15682,10 +16202,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -15923,10 +16453,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.093875
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -16183,10 +16723,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (70)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -16488,10 +17038,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (35)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -16967,10 +17527,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (36)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -17268,10 +17838,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -17373,10 +17953,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -17863,10 +18453,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (52)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -18330,10 +18930,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -18914,10 +19524,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (40)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -19164,10 +19784,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (48)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -19264,10 +19894,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.0938752
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (32)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -19720,12 +20360,17 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 1.1347517
+      value: 0.7241358
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (57)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -19883,10 +20528,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.1664093
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (58)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -20086,10 +20741,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -20191,10 +20856,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (43)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -20296,10 +20971,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (65)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -20808,10 +21493,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.0938752
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -21269,10 +21964,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (72)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -21618,10 +22323,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (49)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -22287,10 +23002,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (33)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -22453,10 +23178,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -22558,10 +23293,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -22961,10 +23706,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (84)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -24336,10 +25091,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (46)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -24441,10 +25206,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (43)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -24708,12 +25483,17 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 1.1347517
+      value: 0.7241358
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (54)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -24872,10 +25652,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (56)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -24977,10 +25767,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (74)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -25713,10 +26513,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.1664093
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (37)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -25824,10 +26634,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -26133,10 +26953,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -26241,12 +27071,17 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 1.1347517
+      value: 0.7241358
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (46)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -26713,10 +27548,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (88)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -26969,10 +27814,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (64)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -27074,10 +27929,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (57)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -27277,10 +28142,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (63)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -27666,10 +28541,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (50)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -27953,10 +28838,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (69)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -28179,10 +29074,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.0938752
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -28279,10 +29184,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.1664093
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -28489,12 +29404,17 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 1.1347517
+      value: 0.7241358
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (45)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -29829,10 +30749,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -30236,10 +31166,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (51)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -30636,10 +31576,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (62)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -31265,10 +32215,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -31573,12 +32533,17 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 1.1347517
+      value: 0.7241358
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (47)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -31765,10 +32730,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.1664093
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (33)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -31870,10 +32845,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -32168,10 +33153,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (66)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -32330,10 +33325,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (82)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -32569,10 +33574,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1.0000001
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (52)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -32773,10 +33788,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.1664091
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -33640,10 +34665,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (81)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -33882,10 +34917,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -33987,10 +35032,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1.0000001
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (55)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -34156,10 +35211,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.0938752
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (35)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -34256,10 +35321,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.0938752
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (61)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -34418,10 +35493,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (89)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -34598,10 +35683,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.0938752
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -35326,10 +36421,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.0938753
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (40)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -35729,10 +36834,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (39)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -36216,10 +37331,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (32)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -36719,12 +37844,17 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 1.1347516
+      value: 0.7241358
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (56)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -36821,10 +37951,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.1664093
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -37030,10 +38170,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (67)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -37135,10 +38285,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -37240,10 +38400,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (44)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -37738,10 +38908,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.0938752
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -37910,10 +39090,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (36)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -38282,10 +39472,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -38485,10 +39685,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (53)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -39485,10 +40695,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.2788366
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (38)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -39585,10 +40805,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.0938752
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -39685,8 +40915,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1684425792}
-  m_LocalRotation: {x: 0.012892348, y: 0.0041647376, z: -0.0024793071, w: -0.99990517}
-  m_LocalPosition: {x: 307.87524, y: 19.350708, z: 47.779793}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: 390.94632, y: -389.69162, z: 293.45566}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -40114,12 +41344,17 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 1.1347517
+      value: 0.7241358
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (41)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -40319,10 +41554,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (42)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -41017,10 +42262,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.0938752
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -41122,10 +42377,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -41516,10 +42781,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -41779,12 +43054,17 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 1.1347517
+      value: 0.7241358
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (55)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -42082,10 +43362,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -42483,10 +43773,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (44)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -42588,10 +43888,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (63)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -42696,12 +44006,17 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 1.1347517
+      value: 0.7241358
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (59)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -42904,12 +44219,17 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 1.1347517
+      value: 0.7241358
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (37)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -43011,10 +44331,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -43730,10 +45060,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (47)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -44037,10 +45377,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -44354,10 +45704,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (78)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -44459,10 +45819,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -44567,12 +45937,17 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 1.1347517
+      value: 0.7241358
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (38)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -44810,12 +46185,17 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 1.1347517
+      value: 0.7241358
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (42)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -45348,10 +46728,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (34)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -45864,10 +47254,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -46170,10 +47570,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.2788366
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -47352,10 +48762,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -47635,10 +49055,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.1664091
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -47797,10 +49227,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -47982,10 +49422,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -48424,10 +49874,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (45)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -48592,10 +50052,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4-20m (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60f5e326149d2a8479ca4975f3225611, type: 3}
@@ -48787,10 +50257,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -49075,10 +50555,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (60)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
@@ -49276,10 +50766,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7241358
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
         type: 3}
       propertyPath: m_Name
       value: GSDRailing4 (49)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a380f918fe8bf847910d9982d32b6b0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
