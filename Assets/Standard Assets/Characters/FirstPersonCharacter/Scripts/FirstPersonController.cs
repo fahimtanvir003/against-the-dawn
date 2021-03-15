@@ -239,6 +239,17 @@ namespace UnityStandardAssets.Characters.FirstPerson
             m_MouseLook.LookRotation (transform, m_Camera.transform);
         }
 
+        public int GetPlayerStealthProfile()
+        {
+            if (m_IsWalking)
+            {
+                return 0;
+            } else
+            {
+                return 1;
+            }
+        }
+
 
         private void OnControllerColliderHit(ControllerColliderHit hit)
         {

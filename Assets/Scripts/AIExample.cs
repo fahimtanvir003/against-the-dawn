@@ -4,10 +4,9 @@ using UnityEngine;
 using UnityStandardAssets.Characters.FirstPerson;
 using UnityEngine.AI;
 
-public class AIExample : MonoBehaviour
-{
+public class AIExample : MonoBehaviour {
 
-    public enum WanderType { Random, Waypoint };
+    public enum WanderType { Random, Waypoint};
 
 
     //public FirstPersonController fpsc;
@@ -26,12 +25,7 @@ public class AIExample : MonoBehaviour
     private Renderer renderer;
     private int waypointIndex = 0;
     private Animator animator;
-
-    private bool offAnimation = false;
-
-    private Collider[] ragdollColliders;
-    private Rigidbody[] ragdollRigidbodies;
-
+    
 
     public void Start()
     {
@@ -39,11 +33,6 @@ public class AIExample : MonoBehaviour
         renderer = GetComponent<Renderer>();
         animator = GetComponentInChildren<Animator>();
         wanderPoint = RandomWanderPoint();
-        ragdollColliders = GetComponentsInChildren<Collider>();
-        ragdollRigidbodies = GetComponentsInChildren<Rigidbody>();
-
-       
-
     }
     public void Update()
     {
@@ -53,8 +42,7 @@ public class AIExample : MonoBehaviour
             animator.SetBool("Aware", true);
             agent.speed = chaseSpeed;
             //renderer.material.color = Color.red;
-        }
-        else
+        } else
         {
             SearchForPlayer();
             Wander();
@@ -62,26 +50,6 @@ public class AIExample : MonoBehaviour
             agent.speed = wanderSpeed;
             //renderer.material.color = Color.blue;
         }
-
-        if (offAnimation)
-        {
-            animator.enabled = false;
-            agent.speed = 0;
-            foreach (Collider col in ragdollColliders)
-            {
-                col.enabled = false;
-            }
-
-            foreach (Rigidbody rb in ragdollRigidbodies)
-            {
-                rb.isKinematic = false;
-            }
-        }
-        else
-        {
-            animator.enabled = true;
-        }
-
     }
 
     public void SearchForPlayer()
@@ -140,8 +108,7 @@ public class AIExample : MonoBehaviour
                 {
                     agent.SetDestination(waypoints[waypointIndex].position);
                 }
-            }
-            else
+            } else
             {
                 Debug.LogWarning("Please assign more than 1 waypoint to the AI: " + gameObject.name);
             }
@@ -154,20 +121,5 @@ public class AIExample : MonoBehaviour
         NavMeshHit navHit;
         NavMesh.SamplePosition(randomPoint, out navHit, wanderRadius, -1);
         return new Vector3(navHit.position.x, transform.position.y, navHit.position.z);
-    }
-
-    void OnCollisionEnter(Collision collision)
-    {
-        if (collision.gameObject.tag == "Player")
-        {
-            offAnimation = true;
-            
-        }
-
-        if (collision.gameObject.tag == "DestroyZombie")
-        {
-            Destroy(gameObject);
-
-        }
     }
 }
