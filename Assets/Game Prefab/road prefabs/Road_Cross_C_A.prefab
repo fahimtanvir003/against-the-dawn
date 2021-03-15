@@ -1,7 +1,7 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!64 &572865706584472005
-MeshCollider:
+--- !u!65 &5885062182903179588
+BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -10,10 +10,9 @@ MeshCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  serializedVersion: 4
-  m_Convex: 1
-  m_CookingOptions: 30
-  m_Mesh: {fileID: -6682643537054120280, guid: a6c8961b6a254f84199cf65241db1748, type: 3}
+  serializedVersion: 2
+  m_Size: {x: 0.6061497, y: 5, z: 4.9999995}
+  m_Center: {x: -0.08444027, y: 0.7548654, z: 0}
 --- !u!1 &1573534775970565194
 GameObject:
   m_ObjectHideFlags: 0
@@ -116,8 +115,8 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300018, guid: bca5c93adbc71744ca9ea932c796e900, type: 3}
---- !u!64 &8839812892223699235
-MeshCollider:
+--- !u!65 &2060067265796407077
+BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -126,12 +125,11 @@ MeshCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  serializedVersion: 4
-  m_Convex: 1
-  m_CookingOptions: 30
-  m_Mesh: {fileID: -6682643537054120280, guid: a6c8961b6a254f84199cf65241db1748, type: 3}
---- !u!64 &3715202714768782200
-MeshCollider:
+  serializedVersion: 2
+  m_Size: {x: 0.6061497, y: 5, z: 4.9999995}
+  m_Center: {x: -0.08444027, y: 0.7548654, z: 0}
+--- !u!65 &3903960770077120773
+BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -140,12 +138,11 @@ MeshCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  serializedVersion: 4
-  m_Convex: 1
-  m_CookingOptions: 30
-  m_Mesh: {fileID: -6682643537054120280, guid: a6c8961b6a254f84199cf65241db1748, type: 3}
---- !u!64 &7304413234437970588
-MeshCollider:
+  serializedVersion: 2
+  m_Size: {x: 0.60614985, y: 5, z: 5.0000024}
+  m_Center: {x: -0.08444028, y: 0.7548656, z: 0.0000075447338}
+--- !u!65 &8076201901244559205
+BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -154,12 +151,11 @@ MeshCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  serializedVersion: 4
-  m_Convex: 1
-  m_CookingOptions: 30
-  m_Mesh: {fileID: -6682643537054120280, guid: a6c8961b6a254f84199cf65241db1748, type: 3}
---- !u!64 &2329205009532627669
-MeshCollider:
+  serializedVersion: 2
+  m_Size: {x: 0.60614955, y: 5, z: 5.0000024}
+  m_Center: {x: -0.084440246, y: 0.7548656, z: 0.0000038146973}
+--- !u!65 &6276204145980477178
+BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -168,12 +164,11 @@ MeshCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  serializedVersion: 4
-  m_Convex: 1
-  m_CookingOptions: 30
-  m_Mesh: {fileID: -6682643537054120280, guid: a6c8961b6a254f84199cf65241db1748, type: 3}
---- !u!64 &8006467441562720661
-MeshCollider:
+  serializedVersion: 2
+  m_Size: {x: 0.6061497, y: 5, z: 4.9999995}
+  m_Center: {x: -0.08444027, y: 0.7548654, z: 0}
+--- !u!65 &8701966800723049448
+BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -182,12 +177,11 @@ MeshCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  serializedVersion: 4
-  m_Convex: 1
-  m_CookingOptions: 30
-  m_Mesh: {fileID: -6682643537054120280, guid: a6c8961b6a254f84199cf65241db1748, type: 3}
---- !u!64 &7619299291129893829
-MeshCollider:
+  serializedVersion: 2
+  m_Size: {x: 0.6061497, y: 5, z: 4.9999995}
+  m_Center: {x: -0.08444027, y: 0.7548654, z: 0}
+--- !u!65 &1614038635539863305
+BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -196,12 +190,11 @@ MeshCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  serializedVersion: 4
-  m_Convex: 1
-  m_CookingOptions: 30
-  m_Mesh: {fileID: -6682643537054120280, guid: a6c8961b6a254f84199cf65241db1748, type: 3}
---- !u!64 &7125680759435745159
-MeshCollider:
+  serializedVersion: 2
+  m_Size: {x: 0.60614955, y: 5, z: 5.0000024}
+  m_Center: {x: -0.084440246, y: 0.7548656, z: -0.0000076293945}
+--- !u!65 &4826900734129564589
+BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -210,10 +203,9 @@ MeshCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  serializedVersion: 4
-  m_Convex: 1
-  m_CookingOptions: 30
-  m_Mesh: {fileID: -6682643537054120280, guid: a6c8961b6a254f84199cf65241db1748, type: 3}
+  serializedVersion: 2
+  m_Size: {x: 0.60614985, y: 5, z: 5.0000024}
+  m_Center: {x: -0.08444028, y: 0.7548656, z: -0.0000039007145}
 --- !u!1001 &1804052794448207904
 PrefabInstance:
   m_ObjectHideFlags: 0
