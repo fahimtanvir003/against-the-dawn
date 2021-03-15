@@ -13019,6 +13019,11 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 0.7241358
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 60f5e326149d2a8479ca4975f3225611,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: cfbab6ecd09adda47b809612037be954, type: 2}
     - target: {fileID: 919132149155446097, guid: 60f5e326149d2a8479ca4975f3225611,
         type: 3}
       propertyPath: m_Name
@@ -19254,8 +19259,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f2945aef324a6c84589828c3a4eaf030, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Player: {fileID: 1455419548}
-  MobDistanceRun: 4
 --- !u!114 &824600152
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19268,14 +19271,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cb4d205336c1bd243849c1a9926504a9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 1455419548}
-  wanderType: 0
-  wanderSpeed: 4
-  chaseSpeed: 7
-  fov: 120
-  viewDistance: 10
-  wanderRadius: 7
-  waypoints: []
 --- !u!195 &824600153
 NavMeshAgent:
   m_ObjectHideFlags: 0
