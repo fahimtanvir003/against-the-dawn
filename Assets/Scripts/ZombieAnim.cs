@@ -8,21 +8,18 @@ using UnityEngine;
 public class ZombieAnim : MonoBehaviour
 {
     public AudioManager audioManager;
-    public ParticleSystem firstbloodParticles;
-    public ParticleSystem secondbloodParticles;
-    public ParticleSystem thirdbloodParticles;
+    public GameObject firstBloodPrefab;
+    public GameObject secondBloodPrefab;
+    
     public bool isPlayed;
-    //public Vector3 defaultPosition;
-    //public float walkingDistance;
-    //public float maxWalkingDistance;
-    //public Transform destinations;
+    public Transform bloodPos;
     public float zDistance;
     public float attackDistance;
     public float howMuchClose;
     //public GameObject healthBar;
     private Rigidbody[] rb;
     private Collider[] colls;
-    //public CapsuleCollider capCollider;
+    //public BoxCollider SphereCollider;
     public BoxCollider boxCollider;
     public SphereCollider sphereCollider;
     public Rigidbody pubRig;
@@ -40,9 +37,7 @@ public class ZombieAnim : MonoBehaviour
     public ILastEntered ilas;
     Collider myLastHit, myLastExit;
     bool movement;
-    //public GameObject zBlood;
-    //public GameObject zBloodStain;
-    //public ParticleSystem pp;
+    
     // Start is called before the first frame update
 
     private void Awake()
@@ -74,18 +69,25 @@ public class ZombieAnim : MonoBehaviour
         {
             coll.enabled = state; 
         }
-        if (!isPlayed)
+        dead = state;
+       /* if (!isPlayed)
         {
-            firstbloodParticles.Play();
-            secondbloodParticles.Play();
-            thirdbloodParticles.Play();
+           // Instantiate(firstbloodParticles, transform.position, Quaternion.identity);
             isPlayed = true;
-        }
+        }*/
     }
 
     // Update is called once per frame
     void Update()
     {
+        if (!inRange && !dead)
+        {
+            Walk();
+        }
+        /*else if(inRange && !dead)
+        {
+            Run();
+        }*/
         //walkingDistance = Vector3.Distance(destinations.position, transform.position);
         // calculating attackDistance
         attackDistance = Vector3.Distance(player.position, transform.position);
@@ -112,7 +114,7 @@ public class ZombieAnim : MonoBehaviour
         if (currentHealth <= 0)
         {
             pubRig.isKinematic = false;
-            dead = true;
+            anim.SetBool("InRange", false);
             EnableRagdoll(true);
             ZombieDead();
             
@@ -124,24 +126,25 @@ public class ZombieAnim : MonoBehaviour
         {
 
             transform.LookAt(player);
+            //anim.SetBool("InRange", true);
+                Run();
+                movement = true;
 
-              if (attackDistance <= zDistance)
-              {
+            /*if (attackDistance <= zDistance)
+            {
                 anim.SetBool("InRange", false);
                 anim.SetBool("Attack", true);
 
-              }
+            }*/
             //transform.Translate(Vector3.forward * zombieSpeed * Time.deltaTime);
             //pubRig.AddTorque(transform.forward * zombieSpeed);
-            if (attackDistance > zDistance)
+            /*if (attackDistance > zDistance)
             {
                 anim.SetBool("Attack", false);
                 anim.SetBool("InRange", true);
                 anim.SetBool("walk", false);
-                movement = true;
 
-                Run();
-            }
+            }*/
            // anim.SetBool("InRange", false);
 
         }
@@ -151,26 +154,28 @@ public class ZombieAnim : MonoBehaviour
             movement = false;
         }
 
-        anim.SetFloat("Time", Time.time);
+        //anim.SetFloat("Time", Time.time);
 
-        if (Time.time >= 5f && !inRange && !dead)
+        /*if (Time.time >= 5f && !inRange && !dead)
         {
             anim.SetBool("walk", true);
             //transform.Translate(Vector3.forward * zombieWalkingSpeed * Time.deltaTime);
             //pubRig.AddTorque(transform.forward * zombieWalkingSpeed);
-            Walk();
-        }
+           
+        }*/
     }
     private void Run()
     {
         Vector3 pos = Vector3.MoveTowards(transform.position, player.position, zombieSpeed * Time.deltaTime);
         pubRig.MovePosition(pos);
+       // anim.SetBool("InRange", true);
     }
     private void Walk()
     {
         Vector3 pos = Vector3.MoveTowards(transform.position, player.position, zombieWalkingSpeed * Time.deltaTime);
         pubRig.MovePosition(pos);
         transform.LookAt(player);
+       // anim.SetBool("InRange", false);
         //pubRig.AddForce(pos * zombieWalkingSpeed);
 
     }
@@ -180,13 +185,14 @@ public class ZombieAnim : MonoBehaviour
 
         myLastHit = ilas.iLastEntered;
 
-        if (myLastHit is SphereCollider && other.gameObject.CompareTag("Player"))
+        if (myLastHit is SphereCollider && other.gameObject.CompareTag("Player") && !dead)
         {
             audioManager.Play("Zombiebgm");
+            anim.SetBool("InRange", true);
+            //anim.SetBool("walk", false);
             transform.LookAt(player);
             inRange = true;
-           // anim.SetBool("InRange", true);
-            anim.SetBool("walk", false);
+            Run();
             
             if (!dead)
             {
@@ -194,13 +200,15 @@ public class ZombieAnim : MonoBehaviour
                 //Debug.Log("Coroutine");
             }
         }
-        if (myLastHit is BoxCollider && other.gameObject.CompareTag("Player"))
+        if (myLastHit is BoxCollider && other.gameObject.CompareTag("Player") && !dead)
         {
             
-            //EnableRagdoll(true);
+            EnableRagdoll(true);
             //pp.Emit(1);
-            transform.LookAt(player);
+            //transform.LookAt(player);
             anim.enabled = false;
+            Instantiate(firstBloodPrefab, bloodPos.position, Quaternion.identity);
+            Instantiate(secondBloodPrefab, bloodPos.position, Quaternion.identity);
             //Instantiate(bloodParticles, transform.position, Quaternion.identity);
             audioManager.Play("ZombieCrash");
             audioManager.Play("ZombieCrash1");
@@ -225,11 +233,16 @@ public class ZombieAnim : MonoBehaviour
 
         myLastExit = ilas.iLastExited;
 
-        if (myLastExit is SphereCollider && other.gameObject.CompareTag("Player"))
+        if (!dead)
         {
-            inRange = false;
-            anim.SetBool("InRange", false);
+            if (myLastExit is SphereCollider && other.gameObject.CompareTag("Player"))
+            {
+                inRange = false;
+                anim.SetBool("InRange", false);
+                Walk();
+            }
         }
+        
     }
     public void TakeDamage(float damage)
     {

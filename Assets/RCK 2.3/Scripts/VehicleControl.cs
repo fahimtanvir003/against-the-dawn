@@ -8,7 +8,11 @@ public enum ControlMode { simple = 1, touch = 2 }
 
 public class VehicleControl : MonoBehaviour
 {
-
+    //script Edit
+    public Text carspeed;
+    public float speed = 0.0f;
+    public AudioManager audioManager;
+    //script Edit
 
     public ControlMode controlMode = ControlMode.simple;
 
@@ -61,7 +65,7 @@ public class VehicleControl : MonoBehaviour
 
     // Car sounds /////////////////////////////////
 
-    public CarSounds carSounds;
+   // public CarSounds carSounds;
 
     [System.Serializable]
     public class CarSounds
@@ -157,8 +161,8 @@ public class VehicleControl : MonoBehaviour
 
     private float torque = 100f;
 
-    [HideInInspector]
-    public float speed = 0.0f;
+    
+    
 
     private float lastSpeed = -10.0f;
 
@@ -179,7 +183,7 @@ public class VehicleControl : MonoBehaviour
     private float shiftTime = 0.0f;
 
     private float shiftDelay = 0.0f;
-
+    
 
     [HideInInspector]
     public int currentGear = 0;
@@ -273,6 +277,8 @@ public class VehicleControl : MonoBehaviour
     void Awake()
     {
 
+        
+
         if (carSetting.automaticGear) NeutralGear = false;
 
         myRigidbody = transform.GetComponent<Rigidbody>();
@@ -325,6 +331,11 @@ public class VehicleControl : MonoBehaviour
 
     }
 
+    private void Start()
+    {
+        audioManager.Play("Theme");
+    }
+
 
 
 
@@ -338,7 +349,7 @@ public class VehicleControl : MonoBehaviour
         {
 
            // if (!carSounds.switchGear.isPlaying)
-                carSounds.switchGear.GetComponent<AudioSource>().Play();
+               // carSounds.switchGear.GetComponent<AudioSource>().Play();
 
 
                 if (!carSetting.automaticGear)
@@ -378,7 +389,7 @@ public class VehicleControl : MonoBehaviour
         {
 
            //w if (!carSounds.switchGear.isPlaying)
-                carSounds.switchGear.GetComponent<AudioSource>().Play();
+               // carSounds.switchGear.GetComponent<AudioSource>().Play();
 
                 if (!carSetting.automaticGear)
             {
@@ -440,7 +451,11 @@ public class VehicleControl : MonoBehaviour
 
     void Update()
     {
-
+        //script Edit
+        UpdateNeedle();
+        speed = Mathf.Round(speed);
+        carspeed.text = speed.ToString();
+        //script edit
 
         if (!carSetting.automaticGear && activeControl)
         {
@@ -457,10 +472,64 @@ public class VehicleControl : MonoBehaviour
             }
         }
 
+        //Script Edit
+        if( speed <= 10 || speed == 1)
+        {
+            audioManager.Play("CarAccelerationLow");
+        }
+        else
+        {
+            audioManager.Stop("CarAccelerationLow");
+        }
+        
+        if(speed >= 11)
+        {
+            audioManager.Play("CarAccelerationHigh");
+        }
+        else
+        {
+            audioManager.Stop("CarAccelerationHigh");
+        }
+        
+        if (brake)
+        {
+            audioManager.Play("Brake");
+        }
+        else if (!brake)
+        {
+            audioManager.Stop("Brake");
+        }
+
+        if (Backward)
+        {
+            audioManager.Play("Reverse");
+        }
+        else if(!Backward)
+        {
+            audioManager.Stop("Reverse");
+        }
+
+       
+        
+        if(speed == 0)
+        {
+            audioManager.Play("Car Idle");
+        }
+        //Script Edit
     }
 
-
-
+    //script edit
+    public float desiredPos;
+    public float startPos;
+    public GameObject needle;
+    public float divider;
+    void UpdateNeedle()
+    {
+        desiredPos = startPos;
+        float temp = speed / divider;
+        needle.transform.eulerAngles = new Vector3(0, 0, (startPos - temp * desiredPos));
+    }
+    //script edit
 
     void FixedUpdate()
     {
@@ -752,13 +821,13 @@ public class VehicleControl : MonoBehaviour
 
                 powerShift = Mathf.MoveTowards(powerShift, 0.0f, Time.deltaTime * 10.0f);
 
-                carSounds.nitro.volume = Mathf.Lerp(carSounds.nitro.volume, 1.0f, Time.deltaTime * 10.0f);
+                /*carSounds.nitro.volume = Mathf.Lerp(carSounds.nitro.volume, 1.0f, Time.deltaTime * 10.0f);
 
                 if (!carSounds.nitro.isPlaying)
                 {
                     carSounds.nitro.GetComponent<AudioSource>().Play();
 
-                }
+                }*/
 
 
                 curTorque = powerShift > 0 ? carSetting.shiftPower : carSetting.carPower;
@@ -773,15 +842,15 @@ public class VehicleControl : MonoBehaviour
                     shifmotor = true;
                 }
 
-                carSounds.nitro.volume = Mathf.MoveTowards(carSounds.nitro.volume, 0.0f, Time.deltaTime * 2.0f);
+               // carSounds.nitro.volume = Mathf.MoveTowards(carSounds.nitro.volume, 0.0f, Time.deltaTime * 2.0f);
 
-                if (carSounds.nitro.volume == 0)
-                    carSounds.nitro.Stop();
+               /* if (carSounds.nitro.volume == 0)
+                    carSounds.nitro.Stop();*/
 
                 powerShift = Mathf.MoveTowards(powerShift, 100.0f, Time.deltaTime * 5.0f);
                 curTorque = carSetting.carPower;
-                carParticles.shiftParticle1.emissionRate = Mathf.Lerp(carParticles.shiftParticle1.emissionRate, 0, Time.deltaTime * 10.0f);
-                carParticles.shiftParticle2.emissionRate = Mathf.Lerp(carParticles.shiftParticle2.emissionRate, 0, Time.deltaTime * 10.0f);
+                /*carParticles.shiftParticle1.emissionRate = Mathf.Lerp(carParticles.shiftParticle1.emissionRate, 0, Time.deltaTime * 10.0f);
+                carParticles.shiftParticle2.emissionRate = Mathf.Lerp(carParticles.shiftParticle2.emissionRate, 0, Time.deltaTime * 10.0f);*/
             }
 
 
@@ -997,33 +1066,35 @@ public class VehicleControl : MonoBehaviour
 
         if (Pitch == 1)
         {
-            carSounds.IdleEngine.volume = Mathf.Lerp(carSounds.IdleEngine.volume, 1.0f, 0.1f);
+            /*carSounds.IdleEngine.volume = Mathf.Lerp(carSounds.IdleEngine.volume, 1.0f, 0.1f);
             carSounds.LowEngine.volume = Mathf.Lerp(carSounds.LowEngine.volume, 0.5f, 0.1f);
-            carSounds.HighEngine.volume = Mathf.Lerp(carSounds.HighEngine.volume, 0.0f, 0.1f);
-
+            carSounds.HighEngine.volume = Mathf.Lerp(carSounds.HighEngine.volume, 0.0f, 0.1f);*/
+            //audioManager.Play("CarAccelerationLow");
         }
         else
         {
 
-            carSounds.IdleEngine.volume = Mathf.Lerp(carSounds.IdleEngine.volume, 1.8f - Pitch, 0.1f);
+            //carSounds.IdleEngine.volume = Mathf.Lerp(carSounds.IdleEngine.volume, 1.8f - Pitch, 0.1f);
 
 
             if ((Pitch > PitchDelay || accel > 0) && shiftTime == 0.0f)
             {
-                carSounds.LowEngine.volume = Mathf.Lerp(carSounds.LowEngine.volume, 0.0f, 0.2f);
-                carSounds.HighEngine.volume = Mathf.Lerp(carSounds.HighEngine.volume, 1.0f, 0.1f);
+                /*carSounds.LowEngine.volume = Mathf.Lerp(carSounds.LowEngine.volume, 0.0f, 0.2f);
+                carSounds.HighEngine.volume = Mathf.Lerp(carSounds.HighEngine.volume, 1.0f, 0.1f);*/
+                //audioManager.Play("CarAccelerationHigh");
             }
             else
             {
-                carSounds.LowEngine.volume = Mathf.Lerp(carSounds.LowEngine.volume, 0.5f, 0.1f);
-                carSounds.HighEngine.volume = Mathf.Lerp(carSounds.HighEngine.volume, 0.0f, 0.2f);
+                /*carSounds.LowEngine.volume = Mathf.Lerp(carSounds.LowEngine.volume, 0.5f, 0.1f);
+                carSounds.HighEngine.volume = Mathf.Lerp(carSounds.HighEngine.volume, 0.0f, 0.2f);*/
+                //audioManager.Play("Car Idle");
             }
 
 
 
 
-            carSounds.HighEngine.pitch = Pitch;
-            carSounds.LowEngine.pitch = Pitch;
+            /*carSounds.HighEngine.pitch = Pitch;
+            carSounds.LowEngine.pitch = Pitch;*/
 
             PitchDelay = Pitch;
         }
