@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 3023014944196679039}
   m_Layer: 0
   m_Name: AudioManager
-  m_TagString: Untagged
+  m_TagString: AudioManager
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -47,14 +47,14 @@ MonoBehaviour:
   - name: CarAccelerationLow
     clip: {fileID: 8300000, guid: c4d8928c75c21af43998193f0f038429, type: 3}
     volume: 1
-    pitch: 1.73
-    loop: 1
+    pitch: 1
+    loop: 0
     source: {fileID: 0}
   - name: CarAccelerationHigh
     clip: {fileID: 8300000, guid: 03e3bd08a6e70684dbe299a3e185fdd2, type: 3}
     volume: 1
-    pitch: 0.8
-    loop: 1
+    pitch: 1
+    loop: 0
     source: {fileID: 0}
   - name: Brake
     clip: {fileID: 8300000, guid: bd9566abdbf08834281bfb4ea8b92a5d, type: 3}
@@ -66,11 +66,11 @@ MonoBehaviour:
     clip: {fileID: 8300000, guid: 5699dddcce16c4543b95951c4ce0e092, type: 3}
     volume: 1
     pitch: 0.96
-    loop: 1
+    loop: 0
     source: {fileID: 0}
   - name: Theme
     clip: {fileID: 8300000, guid: cf7db1248b6172a4eb42743f7211438c, type: 3}
-    volume: 1
+    volume: 0.087
     pitch: 0.96
     loop: 1
     source: {fileID: 0}
@@ -82,19 +82,19 @@ MonoBehaviour:
     source: {fileID: 0}
   - name: CarCrash
     clip: {fileID: 8300000, guid: 6d6739b0b89afda43a8f9ce46be46176, type: 3}
-    volume: 1
+    volume: 0.379
     pitch: 0.96
     loop: 0
     source: {fileID: 0}
   - name: ZombieCrash
     clip: {fileID: 8300000, guid: 8f2631d71b46fa8469576afa5cbe7b30, type: 3}
-    volume: 0.7
+    volume: 0.836
     pitch: 0.96
     loop: 0
     source: {fileID: 0}
   - name: ZombieCrash1
     clip: {fileID: 8300000, guid: c1e5a64e55cadc644b987e92c6f73728, type: 3}
-    volume: 0.7
+    volume: 0.719
     pitch: 0.96
     loop: 0
     source: {fileID: 0}
@@ -121,4 +121,10 @@ MonoBehaviour:
     volume: 0.929
     pitch: 0.96
     loop: 1
+    source: {fileID: 0}
+  - name: Car Idle
+    clip: {fileID: 8300000, guid: 3f31ccf9c7fd0da459c17c22982cc5a9, type: 3}
+    volume: 0.812
+    pitch: 0.7
+    loop: 0
     source: {fileID: 0}
