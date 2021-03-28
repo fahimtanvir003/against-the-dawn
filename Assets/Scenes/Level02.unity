@@ -634,10 +634,13 @@ PrefabInstance:
     - target: {fileID: 4377849573615722, guid: 3f178c4b668dc9249b8559353ce8b891, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
       value: 8
 =======
@@ -647,6 +650,7 @@ PrefabInstance:
 <<<<<<< Updated upstream
       value: 8
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
       value: 7
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -654,6 +658,8 @@ PrefabInstance:
       value: 7
 >>>>>>> parent of ca29ed52 (New car)
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
       objectReference: {fileID: 0}
     - target: {fileID: 4377849573615722, guid: 3f178c4b668dc9249b8559353ce8b891, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -1900,10 +1906,13 @@ PrefabInstance:
     - target: {fileID: 4043437198283044, guid: e064b74d645658241ac223a448daeb4e, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
       value: 25
 =======
@@ -1913,6 +1922,7 @@ PrefabInstance:
 <<<<<<< Updated upstream
       value: 25
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
       value: 24
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -1920,6 +1930,8 @@ PrefabInstance:
       value: 24
 >>>>>>> parent of ca29ed52 (New car)
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
       objectReference: {fileID: 0}
     - target: {fileID: 4043437198283044, guid: e064b74d645658241ac223a448daeb4e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -4647,10 +4659,13 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
       value: 50
 =======
@@ -4660,6 +4675,7 @@ PrefabInstance:
 <<<<<<< Updated upstream
       value: 50
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
       value: 49
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -4673,6 +4689,8 @@ PrefabInstance:
 =======
       value: 9
 >>>>>>> parent of 89ab867b (sd)
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
       objectReference: {fileID: 0}
     - target: {fileID: 400006, guid: b544816461f324e56a39767fdeb5b114, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -5062,10 +5080,13 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
   m_RootOrder: 54
 =======
@@ -5075,6 +5096,7 @@ Transform:
 <<<<<<< Updated upstream
   m_RootOrder: 54
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
   m_RootOrder: 53
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -5091,6 +5113,8 @@ Transform:
 =======
   m_RootOrder: 13
 >>>>>>> parent of 89ab867b (sd)
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &148429939
 PrefabInstance:
@@ -6308,10 +6332,13 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
       value: 44
 =======
@@ -6321,6 +6348,7 @@ PrefabInstance:
 <<<<<<< Updated upstream
       value: 44
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
       value: 43
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -6334,6 +6362,8 @@ PrefabInstance:
 =======
       value: 3
 >>>>>>> parent of 89ab867b (sd)
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
       objectReference: {fileID: 0}
     - target: {fileID: 493214, guid: 0ae0c3b068b056c4d92bce77b6f12847, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -6415,10 +6445,13 @@ PrefabInstance:
     - target: {fileID: 4377849573615722, guid: 3f178c4b668dc9249b8559353ce8b891, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
       value: 29
 =======
@@ -6428,6 +6461,7 @@ PrefabInstance:
 <<<<<<< Updated upstream
       value: 29
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
       value: 28
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -6435,6 +6469,8 @@ PrefabInstance:
       value: 28
 >>>>>>> parent of ca29ed52 (New car)
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
       objectReference: {fileID: 0}
     - target: {fileID: 4377849573615722, guid: 3f178c4b668dc9249b8559353ce8b891, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -6846,10 +6882,13 @@ PrefabInstance:
     - target: {fileID: 4446485545027172, guid: 21818f5b47663f347a379e68d3dbb15a, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
       value: 39
 =======
@@ -6859,6 +6898,7 @@ PrefabInstance:
 <<<<<<< Updated upstream
       value: 39
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
       value: 38
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -6866,6 +6906,8 @@ PrefabInstance:
       value: 38
 >>>>>>> parent of ca29ed52 (New car)
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
       objectReference: {fileID: 0}
     - target: {fileID: 4446485545027172, guid: 21818f5b47663f347a379e68d3dbb15a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -7873,10 +7915,13 @@ PrefabInstance:
     - target: {fileID: 4657715108521408, guid: 287d299a9d2286749acea0d6a16f804f, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
       value: 4
 =======
@@ -7886,6 +7931,7 @@ PrefabInstance:
 <<<<<<< Updated upstream
       value: 4
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
       value: 3
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -7893,6 +7939,8 @@ PrefabInstance:
       value: 3
 >>>>>>> parent of ca29ed52 (New car)
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
       objectReference: {fileID: 0}
     - target: {fileID: 4657715108521408, guid: 287d299a9d2286749acea0d6a16f804f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -8848,10 +8896,13 @@ PrefabInstance:
     - target: {fileID: 4657715108521408, guid: 287d299a9d2286749acea0d6a16f804f, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
       value: 26
 =======
@@ -8861,6 +8912,7 @@ PrefabInstance:
 <<<<<<< Updated upstream
       value: 26
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
       value: 25
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -8868,6 +8920,8 @@ PrefabInstance:
       value: 25
 >>>>>>> parent of ca29ed52 (New car)
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
       objectReference: {fileID: 0}
     - target: {fileID: 4657715108521408, guid: 287d299a9d2286749acea0d6a16f804f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -9149,10 +9203,13 @@ PrefabInstance:
     - target: {fileID: 4043437198283044, guid: e064b74d645658241ac223a448daeb4e, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
       value: 16
 =======
@@ -9162,6 +9219,7 @@ PrefabInstance:
 <<<<<<< Updated upstream
       value: 16
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
       value: 15
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -9169,6 +9227,8 @@ PrefabInstance:
       value: 15
 >>>>>>> parent of ca29ed52 (New car)
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
       objectReference: {fileID: 0}
     - target: {fileID: 4043437198283044, guid: e064b74d645658241ac223a448daeb4e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -9531,10 +9591,13 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
   m_RootOrder: 55
 =======
@@ -9544,6 +9607,7 @@ Transform:
 <<<<<<< Updated upstream
   m_RootOrder: 55
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
   m_RootOrder: 54
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -9560,6 +9624,8 @@ Transform:
 =======
   m_RootOrder: 14
 >>>>>>> parent of 89ab867b (sd)
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
   m_LocalEulerAnglesHint: {x: 2.482, y: 1.121, z: 0.947}
 --- !u!1001 &243255957
 PrefabInstance:
@@ -11746,10 +11812,13 @@ PrefabInstance:
     - target: {fileID: 4377849573615722, guid: 3f178c4b668dc9249b8559353ce8b891, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
       value: 24
 =======
@@ -11759,6 +11828,7 @@ PrefabInstance:
 <<<<<<< Updated upstream
       value: 24
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
       value: 23
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -11766,6 +11836,8 @@ PrefabInstance:
       value: 23
 >>>>>>> parent of ca29ed52 (New car)
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
       objectReference: {fileID: 0}
     - target: {fileID: 4377849573615722, guid: 3f178c4b668dc9249b8559353ce8b891, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -11823,10 +11895,13 @@ PrefabInstance:
     - target: {fileID: 4657715108521408, guid: 287d299a9d2286749acea0d6a16f804f, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
       value: 34
 =======
@@ -11836,6 +11911,7 @@ PrefabInstance:
 <<<<<<< Updated upstream
       value: 34
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
       value: 33
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -11843,6 +11919,8 @@ PrefabInstance:
       value: 33
 >>>>>>> parent of ca29ed52 (New car)
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
       objectReference: {fileID: 0}
     - target: {fileID: 4657715108521408, guid: 287d299a9d2286749acea0d6a16f804f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -12505,10 +12583,13 @@ PrefabInstance:
     - target: {fileID: 4043437198283044, guid: e064b74d645658241ac223a448daeb4e, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
       value: 21
 =======
@@ -12518,6 +12599,7 @@ PrefabInstance:
 <<<<<<< Updated upstream
       value: 21
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
       value: 20
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -12525,6 +12607,8 @@ PrefabInstance:
       value: 20
 >>>>>>> parent of ca29ed52 (New car)
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
       objectReference: {fileID: 0}
     - target: {fileID: 4043437198283044, guid: e064b74d645658241ac223a448daeb4e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -12783,10 +12867,13 @@ PrefabInstance:
     - target: {fileID: 4377849573615722, guid: 3f178c4b668dc9249b8559353ce8b891, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
       value: 27
 =======
@@ -12796,6 +12883,7 @@ PrefabInstance:
 <<<<<<< Updated upstream
       value: 27
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
       value: 26
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -12803,6 +12891,8 @@ PrefabInstance:
       value: 26
 >>>>>>> parent of ca29ed52 (New car)
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
       objectReference: {fileID: 0}
     - target: {fileID: 4377849573615722, guid: 3f178c4b668dc9249b8559353ce8b891, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -13805,10 +13895,13 @@ PrefabInstance:
     - target: {fileID: 4377849573615722, guid: 3f178c4b668dc9249b8559353ce8b891, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
       value: 17
 =======
@@ -13818,6 +13911,7 @@ PrefabInstance:
 <<<<<<< Updated upstream
       value: 17
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
       value: 16
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -13825,6 +13919,8 @@ PrefabInstance:
       value: 16
 >>>>>>> parent of ca29ed52 (New car)
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
       objectReference: {fileID: 0}
     - target: {fileID: 4377849573615722, guid: 3f178c4b668dc9249b8559353ce8b891, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -14773,10 +14869,13 @@ PrefabInstance:
     - target: {fileID: 4657715108521408, guid: 287d299a9d2286749acea0d6a16f804f, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
       value: 30
 =======
@@ -14786,6 +14885,7 @@ PrefabInstance:
 <<<<<<< Updated upstream
       value: 30
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
       value: 29
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -14793,6 +14893,8 @@ PrefabInstance:
       value: 29
 >>>>>>> parent of ca29ed52 (New car)
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
       objectReference: {fileID: 0}
     - target: {fileID: 4657715108521408, guid: 287d299a9d2286749acea0d6a16f804f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -18713,7 +18815,6 @@ Transform:
   - {fileID: 2051458115}
   m_Father: {fileID: 0}
 <<<<<<< HEAD
-<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
@@ -18727,6 +18828,7 @@ Transform:
 <<<<<<< Updated upstream
   m_RootOrder: 59
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
   m_RootOrder: 58
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -18747,6 +18849,8 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 18
 >>>>>>> parent of 89ab867b (sd)
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &538037244
 PrefabInstance:
@@ -19073,10 +19177,13 @@ PrefabInstance:
     - target: {fileID: 4377849573615722, guid: 3f178c4b668dc9249b8559353ce8b891, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
       value: 7
 =======
@@ -19086,6 +19193,7 @@ PrefabInstance:
 <<<<<<< Updated upstream
       value: 7
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
       value: 6
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -19093,6 +19201,8 @@ PrefabInstance:
       value: 6
 >>>>>>> parent of ca29ed52 (New car)
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
       objectReference: {fileID: 0}
     - target: {fileID: 4377849573615722, guid: 3f178c4b668dc9249b8559353ce8b891, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -19773,10 +19883,13 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
       value: 47
 =======
@@ -19786,6 +19899,7 @@ PrefabInstance:
 <<<<<<< Updated upstream
       value: 47
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
       value: 46
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -19799,6 +19913,8 @@ PrefabInstance:
 =======
       value: 6
 >>>>>>> parent of 89ab867b (sd)
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
       objectReference: {fileID: 0}
     - target: {fileID: 495534423207314055, guid: bbc50d23d7c96a348bbe8a3f6d7b6b3d,
         type: 3}
@@ -20204,6 +20320,80 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1513828992}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &560299800
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5260198467761697756, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_Name
+      value: Cube (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 490.806
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 36.825
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 677.15
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.0018833249
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.007424866
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.9999705
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.00068959844
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 70
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -0.851
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -0.215
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -180.077
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 47.432045
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 27993223594a37c4c8db8b39f59db086, type: 3}
 --- !u!1001 &561123919
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -20311,10 +20501,13 @@ PrefabInstance:
     - target: {fileID: 4043437198283044, guid: e064b74d645658241ac223a448daeb4e, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
       value: 36
 =======
@@ -20324,6 +20517,7 @@ PrefabInstance:
 <<<<<<< Updated upstream
       value: 36
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
       value: 35
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -20331,6 +20525,8 @@ PrefabInstance:
       value: 35
 >>>>>>> parent of ca29ed52 (New car)
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
       objectReference: {fileID: 0}
     - target: {fileID: 4043437198283044, guid: e064b74d645658241ac223a448daeb4e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -20883,6 +21079,85 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e1bc359441555dc4394ba9abb79e5db7, type: 3}
+--- !u!1001 &583539349
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5260198467761697756, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_Name
+      value: Cube
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 372.499
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 37.283
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 676.745
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.0018833249
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.007424866
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.9999705
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.00068959844
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -0.851
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -0.215
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -180.077
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 49.120384
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 118.64903
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 27993223594a37c4c8db8b39f59db086, type: 3}
 --- !u!4 &584012034 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400008, guid: 272f6ea372a7343499b5aa612014761f,
@@ -23674,6 +23949,84 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.030652627, y: 0.07739105, z: 0.023288105}
   m_Center: {x: 0.00059417123, y: 0.0030001956, z: 0.0106086}
+<<<<<<< HEAD
+=======
+--- !u!1001 &660137855
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 534829809}
+    m_Modifications:
+    - target: {fileID: 100000, guid: 55f94b3dfaaba26458dbf470efc8cfa4, type: 3}
+      propertyPath: m_Name
+      value: Rock4B (39)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 55f94b3dfaaba26458dbf470efc8cfa4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -252.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 55f94b3dfaaba26458dbf470efc8cfa4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 411.74
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 55f94b3dfaaba26458dbf470efc8cfa4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 104.93
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 55f94b3dfaaba26458dbf470efc8cfa4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.5804181
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 55f94b3dfaaba26458dbf470efc8cfa4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.25566778
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 55f94b3dfaaba26458dbf470efc8cfa4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.5008509
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 55f94b3dfaaba26458dbf470efc8cfa4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.5889799
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 55f94b3dfaaba26458dbf470efc8cfa4, type: 3}
+      propertyPath: m_RootOrder
+      value: 190
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 55f94b3dfaaba26458dbf470efc8cfa4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 55f94b3dfaaba26458dbf470efc8cfa4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 55f94b3dfaaba26458dbf470efc8cfa4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 55f94b3dfaaba26458dbf470efc8cfa4, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.28601483
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 55f94b3dfaaba26458dbf470efc8cfa4, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5546089
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 55f94b3dfaaba26458dbf470efc8cfa4, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.46649995
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 55f94b3dfaaba26458dbf470efc8cfa4, type: 3}
+--- !u!4 &660461087 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+    type: 3}
+  m_PrefabInstance: {fileID: 5260198467134858690}
+  m_PrefabAsset: {fileID: 0}
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 --- !u!4 &661670144 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: b3bfdc11c7193c04d93f651feb81749f,
@@ -26127,10 +26480,13 @@ PrefabInstance:
     - target: {fileID: 4377849573615722, guid: 3f178c4b668dc9249b8559353ce8b891, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
       value: 38
 =======
@@ -26140,6 +26496,7 @@ PrefabInstance:
 <<<<<<< Updated upstream
       value: 38
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
       value: 37
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -26147,6 +26504,8 @@ PrefabInstance:
       value: 37
 >>>>>>> parent of ca29ed52 (New car)
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
       objectReference: {fileID: 0}
     - target: {fileID: 4377849573615722, guid: 3f178c4b668dc9249b8559353ce8b891, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -27931,10 +28290,13 @@ PrefabInstance:
     - target: {fileID: 4377849573615722, guid: 3f178c4b668dc9249b8559353ce8b891, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
       value: 32
 =======
@@ -27944,6 +28306,7 @@ PrefabInstance:
 <<<<<<< Updated upstream
       value: 32
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
       value: 31
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -27951,6 +28314,8 @@ PrefabInstance:
       value: 31
 >>>>>>> parent of ca29ed52 (New car)
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
       objectReference: {fileID: 0}
     - target: {fileID: 4377849573615722, guid: 3f178c4b668dc9249b8559353ce8b891, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -29838,10 +30203,13 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
   m_RootOrder: 64
 =======
@@ -29851,6 +30219,7 @@ Transform:
 <<<<<<< Updated upstream
   m_RootOrder: 64
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
   m_RootOrder: 63
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -29867,7 +30236,88 @@ Transform:
 =======
   m_RootOrder: 23
 >>>>>>> parent of 89ab867b (sd)
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &831889448
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5260198467761697756, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_Name
+      value: Cube (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 792.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 26.39
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 605.04
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.637992
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.09774259
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.7597393
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.07879644
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 14.422001
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -279.919
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -179.705
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 78.23526
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 120.99664
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 27993223594a37c4c8db8b39f59db086, type: 3}
 --- !u!1001 &833083350
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -30022,10 +30472,13 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
       value: 52
 =======
@@ -30035,6 +30488,7 @@ PrefabInstance:
 <<<<<<< Updated upstream
       value: 52
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
       value: 51
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -30051,6 +30505,8 @@ PrefabInstance:
 =======
       value: 11
 >>>>>>> parent of 89ab867b (sd)
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
       objectReference: {fileID: 0}
     - target: {fileID: 6133683040082807123, guid: c691d7db68f370941b1ed2dd393f7e9a,
         type: 3}
@@ -30346,10 +30802,13 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
   m_RootOrder: 58
 =======
@@ -30359,6 +30818,7 @@ Transform:
 <<<<<<< Updated upstream
   m_RootOrder: 58
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
   m_RootOrder: 57
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -30375,6 +30835,8 @@ Transform:
 =======
   m_RootOrder: 17
 >>>>>>> parent of 89ab867b (sd)
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
   m_LocalEulerAnglesHint: {x: 109.98, y: -235.1, z: 779.1}
 --- !u!1001 &837895600
 PrefabInstance:
@@ -30597,10 +31059,13 @@ PrefabInstance:
     - target: {fileID: 4043437198283044, guid: e064b74d645658241ac223a448daeb4e, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
       value: 15
 =======
@@ -30610,6 +31075,7 @@ PrefabInstance:
 <<<<<<< Updated upstream
       value: 15
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
       value: 14
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -30617,6 +31083,8 @@ PrefabInstance:
       value: 14
 >>>>>>> parent of ca29ed52 (New car)
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
       objectReference: {fileID: 0}
     - target: {fileID: 4043437198283044, guid: e064b74d645658241ac223a448daeb4e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -31078,10 +31546,13 @@ PrefabInstance:
     - target: {fileID: 4657715108521408, guid: 287d299a9d2286749acea0d6a16f804f, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
       value: 41
 =======
@@ -31091,6 +31562,7 @@ PrefabInstance:
 <<<<<<< Updated upstream
       value: 41
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
       value: 40
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -31098,6 +31570,8 @@ PrefabInstance:
       value: 40
 >>>>>>> parent of ca29ed52 (New car)
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
       objectReference: {fileID: 0}
     - target: {fileID: 4657715108521408, guid: 287d299a9d2286749acea0d6a16f804f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -33351,10 +33825,13 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
       value: 51
 =======
@@ -33364,6 +33841,7 @@ PrefabInstance:
 <<<<<<< Updated upstream
       value: 51
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
       value: 50
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -33380,6 +33858,8 @@ PrefabInstance:
 =======
       value: 10
 >>>>>>> parent of 89ab867b (sd)
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
       objectReference: {fileID: 0}
     - target: {fileID: 1928978024305908425, guid: 5886a192a35df7f44aecbb20ae783873,
         type: 3}
@@ -34404,10 +34884,13 @@ PrefabInstance:
     - target: {fileID: 4043437198283044, guid: e064b74d645658241ac223a448daeb4e, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
       value: 31
 =======
@@ -34417,6 +34900,7 @@ PrefabInstance:
 <<<<<<< Updated upstream
       value: 31
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
       value: 30
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -34424,6 +34908,8 @@ PrefabInstance:
       value: 30
 >>>>>>> parent of ca29ed52 (New car)
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
       objectReference: {fileID: 0}
     - target: {fileID: 4043437198283044, guid: e064b74d645658241ac223a448daeb4e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -35101,10 +35587,13 @@ PrefabInstance:
     - target: {fileID: 4043437198283044, guid: e064b74d645658241ac223a448daeb4e, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
       value: 13
 =======
@@ -35114,6 +35603,7 @@ PrefabInstance:
 <<<<<<< Updated upstream
       value: 13
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
       value: 12
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -35121,6 +35611,8 @@ PrefabInstance:
       value: 12
 >>>>>>> parent of ca29ed52 (New car)
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
       objectReference: {fileID: 0}
     - target: {fileID: 4043437198283044, guid: e064b74d645658241ac223a448daeb4e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -35373,10 +35865,13 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
   m_RootOrder: 60
 =======
@@ -35386,6 +35881,7 @@ Transform:
 <<<<<<< Updated upstream
   m_RootOrder: 60
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
   m_RootOrder: 59
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -35402,6 +35898,8 @@ Transform:
 =======
   m_RootOrder: 19
 >>>>>>> parent of 89ab867b (sd)
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &970162212
 PrefabInstance:
@@ -36639,10 +37137,13 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
   m_RootOrder: 65
 =======
@@ -36652,6 +37153,7 @@ Transform:
 <<<<<<< Updated upstream
   m_RootOrder: 65
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
   m_RootOrder: 64
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -36668,6 +37170,8 @@ Transform:
 =======
   m_RootOrder: 24
 >>>>>>> parent of 89ab867b (sd)
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1003863496
 PrefabInstance:
@@ -38108,10 +38612,13 @@ PrefabInstance:
     - target: {fileID: 4657715108521408, guid: 287d299a9d2286749acea0d6a16f804f, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
       value: 3
 =======
@@ -38121,6 +38628,7 @@ PrefabInstance:
 <<<<<<< Updated upstream
       value: 3
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
       value: 2
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -38128,6 +38636,8 @@ PrefabInstance:
       value: 2
 >>>>>>> parent of ca29ed52 (New car)
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
       objectReference: {fileID: 0}
     - target: {fileID: 4657715108521408, guid: 287d299a9d2286749acea0d6a16f804f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -39162,10 +39672,13 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
   m_RootOrder: 63
 =======
@@ -39175,6 +39688,7 @@ Transform:
 <<<<<<< Updated upstream
   m_RootOrder: 63
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
   m_RootOrder: 62
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -39191,6 +39705,8 @@ Transform:
 =======
   m_RootOrder: 22
 >>>>>>> parent of 89ab867b (sd)
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1067045076
 PrefabInstance:
@@ -39240,10 +39756,13 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
       value: 45
 =======
@@ -39253,6 +39772,7 @@ PrefabInstance:
 <<<<<<< Updated upstream
       value: 45
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
       value: 44
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -39266,6 +39786,8 @@ PrefabInstance:
 =======
       value: 4
 >>>>>>> parent of 89ab867b (sd)
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
       objectReference: {fileID: 0}
     - target: {fileID: 3834688417703030026, guid: 96cfd685a8d7450439440ddfa82c4424,
         type: 3}
@@ -39307,6 +39829,11 @@ PrefabInstance:
       propertyPath: gmInstance
       value: 
       objectReference: {fileID: 1067045077}
+    - target: {fileID: 8774935690126311547, guid: 96cfd685a8d7450439440ddfa82c4424,
+        type: 3}
+      propertyPath: dodge
+      value: 
+      objectReference: {fileID: 2134001330}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 96cfd685a8d7450439440ddfa82c4424, type: 3}
 --- !u!114 &1067045077 stripped
@@ -39975,10 +40502,13 @@ PrefabInstance:
     - target: {fileID: 4657715108521408, guid: 287d299a9d2286749acea0d6a16f804f, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
       value: 6
 =======
@@ -39988,6 +40518,7 @@ PrefabInstance:
 <<<<<<< Updated upstream
       value: 6
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
       value: 5
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -39995,6 +40526,8 @@ PrefabInstance:
       value: 5
 >>>>>>> parent of ca29ed52 (New car)
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
       objectReference: {fileID: 0}
     - target: {fileID: 4657715108521408, guid: 287d299a9d2286749acea0d6a16f804f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -41238,6 +41771,80 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1.8235499, y: 1.3113937, z: 4.5147552}
   m_Center: {x: -0.009143234, y: -0.15569687, z: -0.36650848}
+--- !u!1001 &1131124596
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5260198467761697756, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_Name
+      value: Cube (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 723.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 31.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 670.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.07341995
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.007351857
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.9972732
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.001246734
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 72
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -0.83000004
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 8.423
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -180.204
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 77.325836
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 27993223594a37c4c8db8b39f59db086, type: 3}
 --- !u!1 &1134635702 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1519583104621698020, guid: c0eb0f79da7f80b429b657f70c8c9372,
@@ -46357,10 +46964,13 @@ PrefabInstance:
     - target: {fileID: 4377849573615722, guid: 3f178c4b668dc9249b8559353ce8b891, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
       value: 28
 =======
@@ -46370,6 +46980,7 @@ PrefabInstance:
 <<<<<<< Updated upstream
       value: 28
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
       value: 27
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -46377,6 +46988,8 @@ PrefabInstance:
       value: 27
 >>>>>>> parent of ca29ed52 (New car)
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
       objectReference: {fileID: 0}
     - target: {fileID: 4377849573615722, guid: 3f178c4b668dc9249b8559353ce8b891, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -46392,6 +47005,85 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3f178c4b668dc9249b8559353ce8b891, type: 3}
+--- !u!1001 &1273972986
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5260198467761697756, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_Name
+      value: Cube (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 813.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 24.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 486.07
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.63961935
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.08645496
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.75822854
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0922076
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 73
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 14.422001
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -279.919
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -181.73
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 82.77918
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 120.99664
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 27993223594a37c4c8db8b39f59db086, type: 3}
 --- !u!1001 &1274579736
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -46434,10 +47126,13 @@ PrefabInstance:
     - target: {fileID: 4043437198283044, guid: e064b74d645658241ac223a448daeb4e, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
       value: 40
 =======
@@ -46447,6 +47142,7 @@ PrefabInstance:
 <<<<<<< Updated upstream
       value: 40
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
       value: 39
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -46454,6 +47150,8 @@ PrefabInstance:
       value: 39
 >>>>>>> parent of ca29ed52 (New car)
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
       objectReference: {fileID: 0}
     - target: {fileID: 4043437198283044, guid: e064b74d645658241ac223a448daeb4e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -50271,10 +50969,13 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
   m_RootOrder: 61
 =======
@@ -50284,6 +50985,7 @@ Transform:
 <<<<<<< Updated upstream
   m_RootOrder: 61
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
   m_RootOrder: 60
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -50300,6 +51002,8 @@ Transform:
 =======
   m_RootOrder: 20
 >>>>>>> parent of 89ab867b (sd)
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &1379406567 stripped
 Transform:
@@ -50677,10 +51381,13 @@ PrefabInstance:
     - target: {fileID: 4377849573615722, guid: 3f178c4b668dc9249b8559353ce8b891, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
       value: 37
 =======
@@ -50690,6 +51397,7 @@ PrefabInstance:
 <<<<<<< Updated upstream
       value: 37
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
       value: 36
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -50697,6 +51405,8 @@ PrefabInstance:
       value: 36
 >>>>>>> parent of ca29ed52 (New car)
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
       objectReference: {fileID: 0}
     - target: {fileID: 4377849573615722, guid: 3f178c4b668dc9249b8559353ce8b891, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -51244,10 +51954,13 @@ PrefabInstance:
     - target: {fileID: 4657715108521408, guid: 287d299a9d2286749acea0d6a16f804f, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
       value: 2
 =======
@@ -51257,6 +51970,7 @@ PrefabInstance:
 <<<<<<< Updated upstream
       value: 2
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
       value: 1
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -51264,6 +51978,8 @@ PrefabInstance:
       value: 1
 >>>>>>> parent of ca29ed52 (New car)
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
       objectReference: {fileID: 0}
     - target: {fileID: 4657715108521408, guid: 287d299a9d2286749acea0d6a16f804f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -51612,10 +52328,13 @@ PrefabInstance:
     - target: {fileID: 4657715108521408, guid: 287d299a9d2286749acea0d6a16f804f, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
       value: 5
 =======
@@ -51625,6 +52344,7 @@ PrefabInstance:
 <<<<<<< Updated upstream
       value: 5
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
       value: 4
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -51632,6 +52352,8 @@ PrefabInstance:
       value: 4
 >>>>>>> parent of ca29ed52 (New car)
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
       objectReference: {fileID: 0}
     - target: {fileID: 4657715108521408, guid: 287d299a9d2286749acea0d6a16f804f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -53192,10 +53914,13 @@ PrefabInstance:
     - target: {fileID: 4377849573615722, guid: 3f178c4b668dc9249b8559353ce8b891, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
       value: 14
 =======
@@ -53205,6 +53930,7 @@ PrefabInstance:
 <<<<<<< Updated upstream
       value: 14
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
       value: 13
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -53212,6 +53938,8 @@ PrefabInstance:
       value: 13
 >>>>>>> parent of ca29ed52 (New car)
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
       objectReference: {fileID: 0}
     - target: {fileID: 4377849573615722, guid: 3f178c4b668dc9249b8559353ce8b891, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -53327,10 +54055,13 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
   m_RootOrder: 53
 =======
@@ -53340,6 +54071,7 @@ Transform:
 <<<<<<< Updated upstream
   m_RootOrder: 53
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
   m_RootOrder: 52
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -53356,6 +54088,8 @@ Transform:
 =======
   m_RootOrder: 12
 >>>>>>> parent of 89ab867b (sd)
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
   m_LocalEulerAnglesHint: {x: 0, y: 17.660002, z: 0}
 --- !u!65 &1436144689
 BoxCollider:
@@ -53766,10 +54500,13 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
       value: 49
 =======
@@ -53779,6 +54516,7 @@ PrefabInstance:
 <<<<<<< Updated upstream
       value: 49
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
       value: 48
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -53792,6 +54530,8 @@ PrefabInstance:
 =======
       value: 8
 >>>>>>> parent of 89ab867b (sd)
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
       objectReference: {fileID: 0}
     - target: {fileID: 400004, guid: baec086904791744185aaa07a6cf55c2, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -55364,10 +56104,13 @@ PrefabInstance:
     - target: {fileID: 4377849573615722, guid: 3f178c4b668dc9249b8559353ce8b891, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
       value: 10
 =======
@@ -55377,6 +56120,7 @@ PrefabInstance:
 <<<<<<< Updated upstream
       value: 10
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
       value: 9
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -55384,6 +56128,8 @@ PrefabInstance:
       value: 9
 >>>>>>> parent of ca29ed52 (New car)
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
       objectReference: {fileID: 0}
     - target: {fileID: 4377849573615722, guid: 3f178c4b668dc9249b8559353ce8b891, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -57330,8 +58076,10 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 43.1, y: 24.7, z: -99.5}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
+  m_Children:
+  - {fileID: 660461087}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -57340,6 +58088,8 @@ Transform:
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
   m_RootOrder: 67
 =======
@@ -57349,6 +58099,7 @@ Transform:
 <<<<<<< Updated upstream
   m_RootOrder: 67
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
   m_RootOrder: 66
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -57365,6 +58116,8 @@ Transform:
 =======
   m_RootOrder: 26
 >>>>>>> parent of 89ab867b (sd)
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1542699805
 PrefabInstance:
@@ -59796,10 +60549,13 @@ PrefabInstance:
     - target: {fileID: 4377849573615722, guid: 3f178c4b668dc9249b8559353ce8b891, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
       value: 20
 =======
@@ -59809,6 +60565,7 @@ PrefabInstance:
 <<<<<<< Updated upstream
       value: 20
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
       value: 19
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -59816,6 +60573,8 @@ PrefabInstance:
       value: 19
 >>>>>>> parent of ca29ed52 (New car)
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
       objectReference: {fileID: 0}
     - target: {fileID: 4377849573615722, guid: 3f178c4b668dc9249b8559353ce8b891, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -62118,10 +62877,13 @@ PrefabInstance:
     - target: {fileID: 4043437198283044, guid: e064b74d645658241ac223a448daeb4e, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
       value: 9
 =======
@@ -62131,6 +62893,7 @@ PrefabInstance:
 <<<<<<< Updated upstream
       value: 9
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
       value: 8
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -62138,6 +62901,8 @@ PrefabInstance:
       value: 8
 >>>>>>> parent of ca29ed52 (New car)
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
       objectReference: {fileID: 0}
     - target: {fileID: 4043437198283044, guid: e064b74d645658241ac223a448daeb4e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -62329,6 +63094,85 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1666468785}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1667145355
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5260198467761697756, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_Name
+      value: Cube (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 784.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 26.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 429.88
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.9996728
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.022881271
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.01126928
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.001952304
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0.194
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -178.70401
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -177.37502
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 79.65063
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 84.90503
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 27993223594a37c4c8db8b39f59db086, type: 3}
 --- !u!4 &1668879754 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: e1bc359441555dc4394ba9abb79e5db7,
@@ -62775,10 +63619,13 @@ PrefabInstance:
     - target: {fileID: 4657715108521408, guid: 287d299a9d2286749acea0d6a16f804f, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
       value: 22
 =======
@@ -62788,6 +63635,7 @@ PrefabInstance:
 <<<<<<< Updated upstream
       value: 22
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
       value: 21
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -62795,6 +63643,8 @@ PrefabInstance:
       value: 21
 >>>>>>> parent of ca29ed52 (New car)
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
       objectReference: {fileID: 0}
     - target: {fileID: 4657715108521408, guid: 287d299a9d2286749acea0d6a16f804f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -65187,10 +66037,13 @@ PrefabInstance:
     - target: {fileID: 4657715108521408, guid: 287d299a9d2286749acea0d6a16f804f, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
       value: 23
 =======
@@ -65200,6 +66053,7 @@ PrefabInstance:
 <<<<<<< Updated upstream
       value: 23
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
       value: 22
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -65207,6 +66061,8 @@ PrefabInstance:
       value: 22
 >>>>>>> parent of ca29ed52 (New car)
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
       objectReference: {fileID: 0}
     - target: {fileID: 4657715108521408, guid: 287d299a9d2286749acea0d6a16f804f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -65484,10 +66340,13 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
       value: 48
 =======
@@ -65497,6 +66356,7 @@ PrefabInstance:
 <<<<<<< Updated upstream
       value: 48
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
       value: 47
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -65510,6 +66370,8 @@ PrefabInstance:
 =======
       value: 7
 >>>>>>> parent of 89ab867b (sd)
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
       objectReference: {fileID: 0}
     - target: {fileID: 3266021873744282779, guid: 479cf92ae492c754a80755f4856eb54e,
         type: 3}
@@ -65616,6 +66478,11 @@ PrefabInstance:
       propertyPath: audioManager
       value: 
       objectReference: {fileID: 1189102647}
+    - target: {fileID: 6973464259167637774, guid: 479cf92ae492c754a80755f4856eb54e,
+        type: 3}
+      propertyPath: carSetting.carPower
+      value: 100
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 479cf92ae492c754a80755f4856eb54e, type: 3}
 --- !u!4 &1772390496 stripped
@@ -65914,10 +66781,13 @@ PrefabInstance:
     - target: {fileID: 4657715108521408, guid: 287d299a9d2286749acea0d6a16f804f, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
       value: 12
 =======
@@ -65927,6 +66797,7 @@ PrefabInstance:
 <<<<<<< Updated upstream
       value: 12
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
       value: 11
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -65934,6 +66805,8 @@ PrefabInstance:
       value: 11
 >>>>>>> parent of ca29ed52 (New car)
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
       objectReference: {fileID: 0}
     - target: {fileID: 4657715108521408, guid: 287d299a9d2286749acea0d6a16f804f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -65991,10 +66864,13 @@ PrefabInstance:
     - target: {fileID: 4657715108521408, guid: 287d299a9d2286749acea0d6a16f804f, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
       value: 11
 =======
@@ -66004,6 +66880,7 @@ PrefabInstance:
 <<<<<<< Updated upstream
       value: 11
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
       value: 10
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -66011,6 +66888,8 @@ PrefabInstance:
       value: 10
 >>>>>>> parent of ca29ed52 (New car)
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
       objectReference: {fileID: 0}
     - target: {fileID: 4657715108521408, guid: 287d299a9d2286749acea0d6a16f804f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -67558,10 +68437,13 @@ PrefabInstance:
     - target: {fileID: 4377849573615722, guid: 3f178c4b668dc9249b8559353ce8b891, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
       value: 35
 =======
@@ -67571,6 +68453,7 @@ PrefabInstance:
 <<<<<<< Updated upstream
       value: 35
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
       value: 34
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -67578,6 +68461,8 @@ PrefabInstance:
       value: 34
 >>>>>>> parent of ca29ed52 (New car)
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
       objectReference: {fileID: 0}
     - target: {fileID: 4377849573615722, guid: 3f178c4b668dc9249b8559353ce8b891, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -67783,10 +68668,13 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
   m_RootOrder: 66
 =======
@@ -67796,6 +68684,7 @@ Transform:
 <<<<<<< Updated upstream
   m_RootOrder: 66
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
   m_RootOrder: 65
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -67812,6 +68701,8 @@ Transform:
 =======
   m_RootOrder: 25
 >>>>>>> parent of 89ab867b (sd)
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1848578135
 PrefabInstance:
@@ -68163,10 +69054,13 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
   m_RootOrder: 56
 =======
@@ -68176,6 +69070,7 @@ Transform:
 <<<<<<< Updated upstream
   m_RootOrder: 56
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
   m_RootOrder: 55
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -68192,6 +69087,8 @@ Transform:
 =======
   m_RootOrder: 15
 >>>>>>> parent of 89ab867b (sd)
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &1857966614 stripped
 Transform:
@@ -68243,10 +69140,13 @@ PrefabInstance:
     - target: {fileID: 4657715108521408, guid: 287d299a9d2286749acea0d6a16f804f, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
       value: 19
 =======
@@ -68256,6 +69156,7 @@ PrefabInstance:
 <<<<<<< Updated upstream
       value: 19
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
       value: 18
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -68263,6 +69164,8 @@ PrefabInstance:
       value: 18
 >>>>>>> parent of ca29ed52 (New car)
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
       objectReference: {fileID: 0}
     - target: {fileID: 4657715108521408, guid: 287d299a9d2286749acea0d6a16f804f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -69156,8 +70059,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 2.0249193, y: 3.0067112, z: 6.6169767}
-  m_Center: {x: 0.018558258, y: 1.5693123, z: 0.06390259}
+  m_Size: {x: 2.0249193, y: 2.1716025, z: 6.6169767}
+  m_Center: {x: 0.018558288, y: 1.9868666, z: 0.0639024}
 --- !u!1001 &1891117352
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -70208,10 +71111,13 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
       value: 43
 =======
@@ -70221,6 +71127,7 @@ PrefabInstance:
 <<<<<<< Updated upstream
       value: 43
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
       value: 42
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -70234,6 +71141,8 @@ PrefabInstance:
 =======
       value: 2
 >>>>>>> parent of 89ab867b (sd)
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
       objectReference: {fileID: 0}
     - target: {fileID: 1519583104622053316, guid: c0eb0f79da7f80b429b657f70c8c9372,
         type: 3}
@@ -71468,10 +72377,13 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
   m_RootOrder: 62
 =======
@@ -71481,6 +72393,7 @@ Transform:
 <<<<<<< Updated upstream
   m_RootOrder: 62
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
   m_RootOrder: 61
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -71497,6 +72410,8 @@ Transform:
 =======
   m_RootOrder: 21
 >>>>>>> parent of 89ab867b (sd)
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1935070990
 PrefabInstance:
@@ -72165,6 +73080,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 1455419550, guid: 2f3a528a45942584f9be431543d5052e, type: 3}
+      propertyPath: carSetting.cameraSwitchView.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1455419550, guid: 2f3a528a45942584f9be431543d5052e, type: 3}
       propertyPath: carspeed
       value: 
       objectReference: {fileID: 1527933238}
@@ -72184,6 +73103,22 @@ PrefabInstance:
       propertyPath: audioManager
       value: 
       objectReference: {fileID: 1189102647}
+    - target: {fileID: 1455419550, guid: 2f3a528a45942584f9be431543d5052e, type: 3}
+      propertyPath: carSetting.shiftDownRPM
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 1455419550, guid: 2f3a528a45942584f9be431543d5052e, type: 3}
+      propertyPath: carSetting.shiftUpRPM
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 1455419550, guid: 2f3a528a45942584f9be431543d5052e, type: 3}
+      propertyPath: carSetting.idleRPM
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1455419550, guid: 2f3a528a45942584f9be431543d5052e, type: 3}
+      propertyPath: carSetting.springs
+      value: 100
+      objectReference: {fileID: 0}
     - target: {fileID: 1455419551, guid: 2f3a528a45942584f9be431543d5052e, type: 3}
       propertyPath: crashSound
       value: 
@@ -72191,6 +73126,11 @@ PrefabInstance:
     - target: {fileID: 7868412672393511985, guid: 2f3a528a45942584f9be431543d5052e,
         type: 3}
       propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7868412672393511985, guid: 2f3a528a45942584f9be431543d5052e,
+        type: 3}
+      propertyPath: engineSoundStyle
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7868412672400256475, guid: 2f3a528a45942584f9be431543d5052e,
@@ -72234,10 +73174,13 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
       value: 46
 =======
@@ -72247,6 +73190,7 @@ PrefabInstance:
 <<<<<<< Updated upstream
       value: 46
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
       value: 45
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -72260,6 +73204,8 @@ PrefabInstance:
 =======
       value: 5
 >>>>>>> parent of 89ab867b (sd)
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
       objectReference: {fileID: 0}
     - target: {fileID: 7868412672400256475, guid: 2f3a528a45942584f9be431543d5052e,
         type: 3}
@@ -72987,6 +73933,80 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1935070990}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1975789255
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5260198467761697756, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_Name
+      value: Cube (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 609.106
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 36.661
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 677.548
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.0018833249
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.007424866
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.9999705
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.00068959844
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 71
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -0.851
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -0.215
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -180.077
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 46.88589
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 27993223594a37c4c8db8b39f59db086, type: 3}
 --- !u!1001 &1978239206
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -73887,10 +74907,13 @@ PrefabInstance:
     - target: {fileID: 4043437198283044, guid: e064b74d645658241ac223a448daeb4e, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
       value: 33
 =======
@@ -73900,6 +74923,7 @@ PrefabInstance:
 <<<<<<< Updated upstream
       value: 33
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
       value: 32
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -73907,6 +74931,8 @@ PrefabInstance:
       value: 32
 >>>>>>> parent of ca29ed52 (New car)
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
       objectReference: {fileID: 0}
     - target: {fileID: 4043437198283044, guid: e064b74d645658241ac223a448daeb4e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -74072,10 +75098,13 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
   m_RootOrder: 57
 =======
@@ -74085,6 +75114,7 @@ Transform:
 <<<<<<< Updated upstream
   m_RootOrder: 57
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
   m_RootOrder: 56
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -74101,6 +75131,8 @@ Transform:
 =======
   m_RootOrder: 16
 >>>>>>> parent of 89ab867b (sd)
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &2005933285
 PrefabInstance:
@@ -74787,10 +75819,13 @@ PrefabInstance:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
       value: 42
 =======
@@ -74800,6 +75835,7 @@ PrefabInstance:
 <<<<<<< Updated upstream
       value: 42
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
       value: 41
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -74813,6 +75849,8 @@ PrefabInstance:
 =======
       value: 1
 >>>>>>> parent of 89ab867b (sd)
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
       objectReference: {fileID: 0}
     - target: {fileID: 6838914741200057638, guid: c13a9b786c0b33d41904580b5bd9f60d,
         type: 3}
@@ -77808,10 +78846,13 @@ PrefabInstance:
     - target: {fileID: 4657715108521408, guid: 287d299a9d2286749acea0d6a16f804f, type: 3}
       propertyPath: m_RootOrder
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 <<<<<<< Updated upstream
       value: 18
 =======
@@ -77821,6 +78862,7 @@ PrefabInstance:
 <<<<<<< Updated upstream
       value: 18
 >>>>>>> parent of 3d95299d (Revert "New car")
+<<<<<<< HEAD
 =======
       value: 17
 >>>>>>> parent of cc2ef1cd (Revert "Merge branch 'main' of https://github.com/fahimtanvir003/against-the-dawn into main")
@@ -77828,6 +78870,8 @@ PrefabInstance:
       value: 17
 >>>>>>> parent of ca29ed52 (New car)
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
       objectReference: {fileID: 0}
     - target: {fileID: 4657715108521408, guid: 287d299a9d2286749acea0d6a16f804f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -79001,6 +80045,317 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 3173082120364073025, guid: 8a380f918fe8bf847910d9982d32b6b0, type: 3}
+<<<<<<< HEAD
+=======
+--- !u!65 &2133902277
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2133902275}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.78540057, y: 5, z: 5.000001}
+  m_Center: {x: 0.0033864386, y: 0.754865, z: 0.0000076293945}
+--- !u!1001 &2134001329
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 101790, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 101790, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 112616, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114064, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114064, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 117074, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 118030, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_Name
+      value: Dodge
+      objectReference: {fileID: 0}
+    - target: {fileID: 118030, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 118030, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 118030, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 118324, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 119316, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 120204, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 125984, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 140468, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 143926, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 148716, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 152312, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 156152, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 156152, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 159850, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 166430, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 171490, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 172718, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 173338, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 175704, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 177944, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 178580, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 181500, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 181974, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 183318, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 187324, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 187324, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 188268, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 195514, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 197256, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 197686, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 424018, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 304.86
+      objectReference: {fileID: 0}
+    - target: {fileID: 424018, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 26.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 424018, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 58.69
+      objectReference: {fileID: 0}
+    - target: {fileID: 424018, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 424018, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.0054642735
+      objectReference: {fileID: 0}
+    - target: {fileID: 424018, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 424018, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9999851
+      objectReference: {fileID: 0}
+    - target: {fileID: 424018, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 424018, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 424018, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0.62600005
+      objectReference: {fileID: 0}
+    - target: {fileID: 424018, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 424018, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.7839198
+      objectReference: {fileID: 0}
+    - target: {fileID: 424018, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.7924961
+      objectReference: {fileID: 0}
+    - target: {fileID: 424018, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.82366467
+      objectReference: {fileID: 0}
+    - target: {fileID: 2319368, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5487112, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_Interpolate
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5487112, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_AngularDrag
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5487112, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_Drag
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5487112, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_Constraints
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11417596, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11417596, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: audioManager
+      value: 
+      objectReference: {fileID: 1189102647}
+    - target: {fileID: 11417596, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: carspeed
+      value: 
+      objectReference: {fileID: 1527933238}
+    - target: {fileID: 11417596, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: activeControl
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11417596, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: carSetting.carPower
+      value: 75
+      objectReference: {fileID: 0}
+    - target: {fileID: 11417596, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: carSetting.showNormalGizmos
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11417596, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: carSetting.springs
+      value: 1000
+      objectReference: {fileID: 0}
+    - target: {fileID: 11417596, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: carSetting.dampers
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11417596, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: carSetting.shiftDownRPM
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 11417596, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: carSetting.shiftUpRPM
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 11417596, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: carSetting.idleRPM
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 11417596, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: carSetting.stiffness
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 11417596, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: carSetting.shiftPower
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11426920, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 72662286a75375c4e907bc20dd734a99, type: 3}
+--- !u!1 &2134001330 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 118030, guid: 72662286a75375c4e907bc20dd734a99,
+    type: 3}
+  m_PrefabInstance: {fileID: 2134001329}
+  m_PrefabAsset: {fileID: 0}
+>>>>>>> parent of 0af76a75 (Update Level02.unity)
 --- !u!1001 &2134344017
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -79623,3 +80978,72 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 54a9cf01843431742a3126013891032d, type: 3}
+--- !u!1001 &5260198467134858690
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1541208397}
+    m_Modifications:
+    - target: {fileID: 5260198467761697756, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_Name
+      value: Cube
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 225.02
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 9.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 100.82
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.6957477
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.014929418
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.7176526
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.026212271
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 3.3190002
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -88.19601
+      objectReference: {fileID: 0}
+    - target: {fileID: 5260198467761697757, guid: 27993223594a37c4c8db8b39f59db086,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -179.033
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 27993223594a37c4c8db8b39f59db086, type: 3}
