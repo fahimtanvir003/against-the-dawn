@@ -8,7 +8,7 @@ public class CarSelection : MonoBehaviour
     public static int currentCar;
     public Button leftButton;
     public Button rightButton;
-    public Text sedanPrice;
+    public Text carPrice;
     
     private void Awake()
     {
@@ -29,18 +29,23 @@ public class CarSelection : MonoBehaviour
     {
         if(currentCar == 0)
         {
-            sedanPrice.text = "Sedan : $5,000";
+            carPrice.text = "Sedan : $5,000";
             PlayerPrefs.SetInt("Car", 0);
         }
         if(currentCar == 1)
         {
-            sedanPrice.text = "Hammer : $10,000";
+            carPrice.text = "Hammer : $10,000";
             PlayerPrefs.SetInt("Car", 1);
         }
         if (currentCar == 2)
         {
-            sedanPrice.text = "Bourak : $40,000";
+            carPrice.text = "Bourak : $40,000";
             PlayerPrefs.SetInt("Car", 2);
+        }
+        if(currentCar == 3)
+        {
+            carPrice.text = "Dodge : $60,000";
+            PlayerPrefs.SetInt("Car", 3);
         }
     }
     public void ChangeCar(int change)

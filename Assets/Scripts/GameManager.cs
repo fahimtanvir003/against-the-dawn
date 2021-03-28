@@ -9,6 +9,7 @@ public class GameManager : MonoBehaviour
     public GameObject hammer;
     public GameObject bourak;
     public GameObject sedan;
+    public GameObject dodge;
     public GameManager gmInstance;
 
     private void Awake()
@@ -48,18 +49,28 @@ public class GameManager : MonoBehaviour
             sedan.SetActive(true);
             hammer.SetActive(false);
             bourak.SetActive(false);
+            dodge.SetActive(false);
         }
         else if (CarSelection.currentCar == 1)
         {
             sedan.SetActive(false);
             hammer.SetActive(true);
             bourak.SetActive(false);
+            dodge.SetActive(false);
         }
         else if (CarSelection.currentCar == 2)
         {
             sedan.SetActive(false);
             hammer.SetActive(false);
             bourak.SetActive(true);
+            dodge.SetActive(false);
+        }
+        else if(CarSelection.currentCar == 3)
+        {
+            sedan.SetActive(false);
+            hammer.SetActive(false);
+            bourak.SetActive(false);
+            dodge.SetActive(true);
         }
 
     }
