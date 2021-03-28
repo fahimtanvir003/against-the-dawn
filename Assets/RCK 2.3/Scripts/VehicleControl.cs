@@ -98,7 +98,7 @@ public class VehicleControl : MonoBehaviour
 
         public bool showNormalGizmos = false;
         public Transform carSteer;
-        //public HitGround[] hitGround;
+        public HitGround[] hitGround;
 
         public List<Transform> cameraSwitchView;
 
@@ -452,7 +452,7 @@ public class VehicleControl : MonoBehaviour
     void Update()
     {
         //script Edit
-        //UpdateNeedle();
+        UpdateNeedle();
         speed = Mathf.Round(speed);
         carspeed.text = speed.ToString();
         //script edit
@@ -519,7 +519,7 @@ public class VehicleControl : MonoBehaviour
     }
 
     //script edit
-    /*public float desiredPos;
+    public float desiredPos;
     public float startPos;
     public GameObject needle;
     public float divider;
@@ -528,7 +528,7 @@ public class VehicleControl : MonoBehaviour
         desiredPos = startPos;
         float temp = speed / divider;
         needle.transform.eulerAngles = new Vector3(0, 0, (startPos - temp * desiredPos));
-    }*/
+    }
     //script edit
 
     void FixedUpdate()
@@ -886,7 +886,7 @@ public class VehicleControl : MonoBehaviour
                     bool WGrounded = false;
 
 
-                   /* for (int i = 0; i < carSetting.hitGround.Length; i++)
+                    for (int i = 0; i < carSetting.hitGround.Length; i++)
                     {
 
                         if (hit.collider.CompareTag(carSetting.hitGround[i].tag))
@@ -908,7 +908,7 @@ public class VehicleControl : MonoBehaviour
                         }
 
 
-                    }*/
+                    }
 
 
 
