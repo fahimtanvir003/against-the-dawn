@@ -43,4 +43,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 921f3a5f8f7b7e34288a0cad8032d580, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  carSelection: {fileID: 0}
+  hammer: {fileID: 0}
+  bourak: {fileID: 0}
+  sedan: {fileID: 0}
+  dodge: {fileID: 0}
+  gmInstance: {fileID: 8774935690126311547}
